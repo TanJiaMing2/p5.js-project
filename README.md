@@ -6,8 +6,11 @@ Multiple function were used such as:
 - accelaration
 - animation
 
+Live Demo:
+
 Modded Eggomania, is a Game similar to Eggomania but fewer feature.
 - https://tanjiaming2.github.io/p5.js-project/Modded%20Eggomania/DCS2209221_TANJIAMING_GAME.html
 
 3D Rotating Illusionary Animation
 - https://tanjiaming2.github.io/p5.js-project/Static%20Animation/DCS2209221_TANJIAMING_INDI_CG.html
+

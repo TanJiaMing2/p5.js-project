@@ -45,7 +45,7 @@ function draw() {
   ];
   // Rotate Screen / Shape / Obj
   //rotateY(frameCount * 0.01);
-  // rotateX(frameCount * 0.5);
+  rotateX(frameCount * 0.5);
   // push();
   if (vertex1 >= 200 || vertex1 <= -50) {
     direction *= -0.5; //
